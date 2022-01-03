@@ -10,6 +10,8 @@ My simple C# virus that uses adb to erase android partitions
 > I did this project for the sake of interest and did not plan to make a real virus out of it. Therefore, do not judge strictly (Lets be a little kinder :3)
 
 # Packages
+[.Net Framework 4.7.2](http://go.microsoft.com/fwlink/?linkid=863265)
+
 [SharpAdbClient](https://www.nuget.org/packages/sharpadbclient/)
 
 # Screenshot
