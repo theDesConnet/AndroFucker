@@ -1,10 +1,12 @@
 > Disclaimer!!
-Everything that is in this repository is provided for informational purposes. The author is not responsible for the damage caused by this virus. You take full responsibility.
+
+>Everything that is in this repository is provided for informational purposes. The author is not responsible for the damage caused by this virus. You take full responsibility.
 
 # AndroFucker
 My simple C# virus that uses adb to erase android partitions
 
 > Warning!
+
 > I did this project for the sake of interest and did not plan to make a real virus out of it. Therefore, do not judge strictly (Lets be a little kinder :3)
 
 # Packages
