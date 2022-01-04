@@ -18,8 +18,6 @@ My simple C# virus that uses adb to erase android partitions
 ![ScreenshotMainForm](https://user-images.githubusercontent.com/31757032/147943584-0e6593e9-6b16-46b6-8c3f-ed7ff2ab6428.png)
 
 # Support Author
-QIWI: https://qiwi.com/n/desconnet
-
 DonationAlerts: https://www.donationalerts.com/r/desconnet
 
 # I am in...
